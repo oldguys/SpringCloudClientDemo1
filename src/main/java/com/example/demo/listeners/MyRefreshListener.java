@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created by Administrator on 2019/3/19 0019.
  */
-@Component
+//@Component
 public class MyRefreshListener extends RefreshListener {
 
     @Autowired
